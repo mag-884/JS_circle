@@ -1,0 +1,25 @@
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+
+}
+
+
+
+.element {
+    height: 250px;
+    width: 250px;
+    background-color: pink;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+
+
+.text {
+    padding: 90px 0;
+
+}
